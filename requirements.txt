@@ -12,5 +12,7 @@ xgboost==1.7.6
 flask==3.0.0
 flask-cors==4.0.0
 streamlit==1.28.0
+matplotlib
 
 requests==2.31.0
+
